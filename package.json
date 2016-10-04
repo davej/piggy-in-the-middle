@@ -18,7 +18,7 @@
     "url": "https://github.com/davej/piggy-in-the-middle.git"
   },
   "dependencies": {
-    "baby-tolk": "^4.1.1",
+    "baby-tolk": "^5.0.0",
     "chokidar": "^1.6.0",
     "csserror": "^2.0.2",
     "jserror": "^1.0.0",
