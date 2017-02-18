@@ -26,7 +26,7 @@
     "when": "^3.7.3"
   },
   "devDependencies": {
-    "coffee-script": "^1.10.0",
+    "coffee-script": "^1.12.4",
     "connect": "^3.4.0",
     "express": "^4.13.3",
     "instant": "^1.10.1",
