@@ -33,7 +33,7 @@
     "instant": "^1.10.1",
     "jade": "^1.11.0",
     "magicpen-media": "^1.5.1",
-    "messy": "^6.10.0",
+    "messy": "^6.15.0",
     "mocha": "^2.5.3",
     "node-sass": "^3.13.1",
     "serve-static": "^1.11.1",
