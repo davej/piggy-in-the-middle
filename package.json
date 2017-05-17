@@ -36,7 +36,7 @@
     "messy": "^6.10.0",
     "mocha": "^2.5.3",
     "node-sass": "^3.13.1",
-    "serve-static": "^1.11.1",
+    "serve-static": "^1.12.3",
     "sinon": "^1.17.4",
     "stylus": "^0.54.5",
     "unexpected": "^10.13.3",
