@@ -29,7 +29,7 @@
     "@davej/instant": "^2.0.0",
     "coffee-script": "^1.10.0",
     "connect": "^3.4.0",
-    "express": "^4.13.3",
+    "express": "^4.15.3",
     "instant": "^1.10.1",
     "jade": "^1.11.0",
     "magicpen-media": "^1.5.1",
